@@ -1,2 +1,4 @@
-# am-i-alive-privacy
-Privacy Policy for the Am I Alive mobile application.
+# OkHere Privacy Policy
+Privacy Policy for the OkHere mobile application.
+
+Live at: https://premsugeendran.github.io/am-i-alive-privacy/
